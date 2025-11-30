@@ -8,23 +8,23 @@ spectre is a minimalist browser homepage with built in commands
 ### all commands
 
 ```
-/g - Search with Google
-/ai - Ask Perplexity AI
-/gpt - Ask ChatGPT
-/yt - Search YouTube
-/iv - Search Invidious
-/n - Search Netflix
-/mk - Search Megakino*
-/fp - Search Filmpalast*
-/sp - Search Spotify
-/sto - Search Serienstream*
-/gh - Search GitHub
-/ttv - Search Twitch
-/az - Search Amazon
-/azd - Search Amazon Germany
-/ddg - Search with DuckDuckGo
-/sc - View a Snapchat Profile
-/version - Show current version
-/help - Show all commands
+/g - search with google
+/ai - ask perplexity ai
+/gpt - ask chatgpt
+/yt - search youtube
+/iv - search invidious
+/n - search netflix
+/mk - search megakino*
+/fp - search filmpalast*
+/sp - search spotify
+/sto - search serienstream*
+/gh - search github
+/ttv - search twitch
+/az - search amazon
+/azd - search amazon germany
+/ddg - search with duckduckgo
+/sc - view a snapchat profile
+/version - show current version
+/help - show all commands
 ```
-<i>* German Movie Streaming Services </i>
+<i>* german tv stream sites </i>
