@@ -7,7 +7,7 @@ spectre is a minimalist browser homepage with built in commands
 
 ### all commands
 
-```
+```bash
 /g - search with google
 /ai - ask perplexity ai
 /gpt - ask chatgpt
