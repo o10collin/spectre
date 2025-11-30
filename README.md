@@ -3,7 +3,7 @@
 
 ### what is this?
 
-> spectre is a minimalist browser homepage with built in commands
+spectre is a minimalist browser homepage with built in commands
 
 ### all commands
 
